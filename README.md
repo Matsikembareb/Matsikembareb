@@ -1,11 +1,11 @@
 ## Hi there 👋
-🔭 I’m currently working on a Web app for a Power Solutions company
+🔭 I’m currently working on a app for a Power Solutions company
 
-🌱 I’m proficient in HTML, Flask and I'm learning CSS, Python and Javascript
+🌱 I’m proficient in Flask and I'm learning CSS, Python and Javascript
 
 👯 I’m looking to collaborate on anything
 
-🤔 I’m looking for help with Web design
+🤔 I’m looking for help with Web dev and Mobile app dev
 
 💬 Ask me about anything
 
