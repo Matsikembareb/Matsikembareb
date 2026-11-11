@@ -16,7 +16,7 @@ Software and web developer in Harare, Zimbabwe 🇿🇼 · Computer Science stud
 
 💬 Ask me about anything
 
-📫 How to reach me: matsikembareb@gmail.com, h230401m@hit.zw, +263 78 081 2222, +263 71 506 0823, instagram-by.ron2651
+📫 How to reach me: matsikembareb@gmail.com, h230401m@hit.zw, +263 78 081 2222, +263 71 506 0823
 
 😄 Pronouns: He/him
 
