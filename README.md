@@ -1,11 +1,18 @@
-## Hi there 👋
-🔭 I’m currently working on a app for a Power Solutions company
+## Hi there 👋 I'm Byron
 
-🌱 I’m proficient in Flask and I'm learning CSS, Python and Javascript
+Software and web developer in Harare, Zimbabwe 🇿🇼 · Computer Science student at HIT · IT systems developer at Die Deutsche Schule Harare
 
-👯 I’m looking to collaborate on anything
+🌐 **Portfolio:** [byronmatsikembare.com](https://byronmatsikembare.com)
 
-🤔 I’m looking for help with Web dev and Mobile app dev
+🔭 **Working on:** [Family Risk](https://byronmatsikembare.com/projects/family-risk), my HIT 400 capstone. It rebuilds family trees from medical-aid records to predict hereditary disease ([how it works](https://byronmatsikembare.com/blog/hit400-family-risk)).
+
+🧰 **Open source:** [Flask-Setup](https://github.com/Matsikembareb/flask-setup), a Flask starter with the structure already done ([more about it](https://byronmatsikembare.com/projects/flask-setup)).
+
+🛠️ **I build:** websites, custom software and Python web apps with Flask, Django, FastAPI and React, for clients in Zimbabwe and remotely. See my [services](https://byronmatsikembare.com/services).
+
+💼 **Open to:** graduate developer roles from 2027 (in Zimbabwe or remote), internships and freelance work.
+
+👯 I'm looking to collaborate on anything
 
 💬 Ask me about anything
 
